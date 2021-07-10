@@ -19,6 +19,12 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### setting
+```
+npm i @vue/cli -g or yarn global add @vue/cli
+vue create priject name
+```
+### os x scss, sass install
+```
+sudo npm install --unsafe-perm -g node-sass
+```
